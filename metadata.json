@@ -1,0 +1,6 @@
+{
+  "name": "Soul of Waifu",
+  "description": "An immersive AI companion and roleplay engine. Choose your waifu, nurture affection, customize traits, and chat using voice & text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
